@@ -1,0 +1,11 @@
+1) abc
+2) _abc
+3) A_abc
+4) if x=2 thenabc  %in my opnion we shouldnt throw error for whole tokken while parsing we say we expected then but there is not then
+5) 1+002
+6) 1>=2
+7) if a==2 true pppp
+8) A120 bbp
+9) 121>=2*#"A_a"Ac
+10) len abcd
+11) 121>=002*#"A_a"Ac(bc,'d){index d}

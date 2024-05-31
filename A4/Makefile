@@ -1,0 +1,2 @@
+make all:
+	ocamllex lexer.mll && ocamlyacc parser.mly && ocamlc -c lexer.ml && ocamlc -c parser.mli && ocamlc -c parser.ml && ocamlc -c test.ml && ocamlc -o logic_program lexer.cmo parser.cmo test.cmo && ./logic_program
